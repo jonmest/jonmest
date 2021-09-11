@@ -3,10 +3,6 @@
   <b>↓ Follow me here: ↓</b><br>
   <a href="https://www.youtube.com/channel/UCp1peGEqkF1wl0MsrIvwNpg">YouTube</a> |
   <a href="https://github.com/jonmest">Github</a>
-  <br><br>
-  <img src="https://media.discordapp.net/attachments/879205491954290778/879478268905021520/efsdfdsf.gif">
-  <br><br>
-  <img src="https://discord.c99.nl/widget/theme-4/793810464156811323.png">
 </p>
 
 -----
@@ -46,39 +42,23 @@ me = {
 </p>
 
 <h1 align="center">Some of my non-Github works</h1>
-<p align="center"> 
-- [Using LSTM Neural Networks To Predict Daily Stock Returns](http://urn.kb.se/resolve?urn=urn:nbn:se:lnu:diva-106124)
-- [Recommendation Engines in Python](https://www.youtube.com/playlist?list=PLt5DdRgBv7ojbo_gqVdMXFoPr9bOUJD37)
-</p>
+<ul>
+  <li>
+    <a href="http://urn.kb.se/resolve?urn=urn:nbn:se:lnu:diva-106124">Using LSTM Neural Networks To Predict Daily Stock Returns</a>
+  </li>
+  <li>
+    <a href="https://www.youtube.com/playlist?list=PLt5DdRgBv7ojbo_gqVdMXFoPr9bOUJD37">Recommendation Engines In Python</a>
+  </li>
+</ul>
 -----
 
-<h1 align="center"></h1>
 <p align="center">
   <img src="https://img.shields.io/github/followers/jonmest?style=social">
   <img src="https://img.shields.io/github/stars/jonmest?style=social">
-  <img src="https://komarev.com/ghpvc/?username=jonmest&color=blue">
+  <img src="https://komarev.com/ghpvc/?username=jonmest&color=a15501">
 </p>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=jonmest">
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonmest&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=fdd870&text_color=d0902f&bg_color=151515" alt="Jon's stats" /> </p>
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonmest&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Its-Vichy's stats" /> </p>
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonmest&layout=compact&show_icons=true&title_color=fff&icon_color=fdd870&text_color=d0902f&bg_color=151515" /></p>
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonmest&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></p>
-
-
-### Hi there 👋
-
-<!--
-**jonmest/jonmest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
