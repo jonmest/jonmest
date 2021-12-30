@@ -12,7 +12,7 @@ me = {
   "age": 21,
   "position": "Developer consultant, Nexer Group",
   "location": "Sweden",
-  "contact": "jcavalliemester@protonmail.com"
+  "contact": "jwcavalliemester@protonmail.com"
 }
 ```
 
