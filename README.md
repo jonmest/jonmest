@@ -10,7 +10,7 @@
 ```python3
 me = {
   "age": 21,
-  "position": "Developer consultant, Nexer Group",
+  "position": "Software Engineer, Nexer Group",
   "location": "Sweden",
   "contact": "jwcavalliemester@protonmail.com"
 }
@@ -33,7 +33,7 @@ me = {
   <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"></code>&nbsp;
 </p>
 
-<h1 align="center">Frameworks I like</h1>
+<h1 align="center">Other things I like</h1>
 
 <p align="center"> 
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>&nbsp; |
