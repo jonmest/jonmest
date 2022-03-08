@@ -1,8 +1,9 @@
 <h1 align="center">Hey, I'm Jon</h1>
 <p align="center">
-  <b>↓ Follow me here: ↓</b><br>
+  <b>↓ Find me here: ↓</b><br>
   <a href="https://www.youtube.com/channel/UCp1peGEqkF1wl0MsrIvwNpg">YouTube</a> |
   <a href="https://github.com/jonmest">Github</a>
+  <a href="https://www.linkedin.com/in/jon-mester/">LinkedIn</a>
 </p>
 
 -----
