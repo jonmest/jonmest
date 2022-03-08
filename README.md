@@ -2,7 +2,7 @@
 <p align="center">
   <b>↓ Find me here: ↓</b><br>
   <a href="https://www.youtube.com/channel/UCp1peGEqkF1wl0MsrIvwNpg">YouTube</a> |
-  <a href="https://github.com/jonmest">Github</a>
+  <a href="https://github.com/jonmest">Github</a> | 
   <a href="https://www.linkedin.com/in/jon-mester/">LinkedIn</a>
 </p>
 
