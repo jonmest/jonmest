@@ -1,20 +1,61 @@
-<h1 align="center">Hey, I'm Jon</h1>
+<h1 align="center">Hi 👋, I'm Jon</h1>
+<h3 align="center">A software engineer from Sweden 🇸🇪</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonmest&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jon-mester/)
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
+- 🔭 I’m currently working at <a href="https://www.lynkco.com" target="blank">Lynk & Co</a>
+
+- 🌱 I’m currently working with Spring Boot, Kubernetes, Helm, Azure, Azure AD and AD B2C
+
+- 🤝 I’m available for freelancing.
+
+- 💬 Ask me about Spring Boot, Kubernetes, Azure, Electron.js or whatever springs up in your mind
+
+- 📫 How to reach me **jonmester3@gmail.com**
+
+- 📄 Know about my experiences <a href="https://www.linkedin.com/in/jon-mester/" target="blank">LinkedIn</a>
+<br/>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
 <p align="center">
-  <b>↓ Find me here: ↓</b><br>
-  <a href="https://www.youtube.com/channel/UCp1peGEqkF1wl0MsrIvwNpg">YouTube</a> |
-  <a href="https://github.com/jonmest">Github</a> | 
-  <a href="https://www.linkedin.com/in/jon-mester/">LinkedIn</a>
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
+				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
+					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
+				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
+		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
+					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+      </div>
+
 </p>
 
-I'm a software engineer who loves to solve problems. On my current assignment I work as a DevOps engineer — and since there are differing views on what that actually is, let's just describe it as a fullstack engineer (Java, Spring Boot, Python, JS) who is also responsible for setting up CI/CD pipelines, Azure, Linux administration, incident response and dealing with pretty much anything thrown at me.
+### Blogs posts
 
+<!-- BLOG-POST-LIST:START -->
 
-### Principles I'd like to live by
-- Think first, code later.
-- Code has no inherent value, it HAS to solve a problem or provide a tangible benefit to users.
-- Putting yourself in a technology box is bad. Always consider the best tools for the issue at hand, instead of going for X programming language simply because that is what you are familiar with.
-- Communication is key and if you do it right, tons of time and work will be saved.
-- A T-shaped skillset is pretty great.
+- [Download Instagram profile picture using python](https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j)
+- [Convert a image to sketch using python](https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1)
+- [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8)
+<!-- BLOG-POST-LIST:END -->
 
-### Interests
-Frankly, I have no particular interest in focusing on one single tech stack and instead believe that the most interesting things in software engineering are related to the architecture and design of software, as those often are what truly solves problems, improve productivity and stand the test of time. For my B.Sc. thesis I decided to perform a systematic literature review on the architectural methods used to improve the resilience of a system, only to find out that many of the design patterns popularly used for this purpose today were first proposed decades ago.
+---
+
+Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
+
+Last Edited on: 08/08/2022
