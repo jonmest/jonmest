@@ -8,10 +8,9 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 </a>
 
-- 🔭 I’m currently working at <a href="https://www.lynkco.com" target="blank">Lynk & Co</a>
+- 🔭 I’m currently working at <a href="https://consid.se/en/" target="blank">Consid</a>
 
-- 🌱 I’m currently working with Spring Boot, Kubernetes, Helm, Azure, Azure AD and AD B2C
-
+- 🌱 I’m currently working with Java, Spring Boot, AWS, Python and Tensorflow.
 - 🤝 I’m available for freelancing.
 
 - 💬 Ask me about Spring Boot, Kubernetes, Azure, Electron.js or whatever springs up in your mind
