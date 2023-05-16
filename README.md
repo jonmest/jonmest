@@ -10,10 +10,10 @@
 
 - 🔭 I’m currently working at <a href="https://consid.se/en/" target="blank">Consid</a>
 
-- 🌱 I’m currently working with Java, Spring Boot, AWS, Python and Tensorflow.
+- 🌱 I’m currently working with Java and DevSecOps
 - 🤝 I’m available for freelancing.
 
-- 💬 Ask me about Spring Boot, Kubernetes, Azure, Electron.js or whatever springs up in your mind
+- 💬 Ask me about DevSecOps, Spring Boot, Kubernetes, Azure
 
 - 📫 How to reach me **jonmester3@gmail.com**
 
