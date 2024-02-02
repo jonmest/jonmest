@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jon</h1>
-<h3 align="center">A software engineer from Sweden 🇸🇪</h3>
+<h3 align="center">A software developer from Sweden 🇸🇪</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonmest&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jon-mester/)
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 </a>
 
 - 🔭 I’m currently working at CGI.
