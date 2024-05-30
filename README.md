@@ -7,10 +7,9 @@
 <a target="_blank" align="center">
 </a>
 
-- 🔭 I’m currently working at CGI.
 
 - 🌱 I’m currently working with Java and DevSecOps.
-- 🤝 I’m not available for freelancing.
+- 🤝 I’m available for freelancing.
 
 - 💬 Ask me about DevSecOps, Spring Boot, Kubernetes, Azure
 
