@@ -13,9 +13,7 @@
 
 - 💬 Ask me about DevSecOps, Spring Boot, Kubernetes, Azure
 
-- 📫 How to reach me **jonmester3@gmail.com**
-
-- 📄 Know about my experiences <a href="https://www.linkedin.com/in/jon-mester/" target="blank">LinkedIn</a>
+- 📄 Know about my experiences <a href="https://www.linkedin.com/in/jon-cavallie-mester/" target="blank">LinkedIn</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
