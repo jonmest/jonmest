@@ -8,10 +8,9 @@
 </a>
 
 
-- 🌱 I’m currently working with Java and DevSecOps.
+- 🌱 I’m currently working with Typescript, Next.js, Postgres and Go.
 - 🤝 I’m available for freelancing.
 
-- 💬 Ask me about DevSecOps, Spring Boot, Kubernetes, Azure
 
 - 📄 Know about my experiences <a href="https://www.linkedin.com/in/jon-cavallie-mester/" target="blank">LinkedIn</a>
 <br/>
